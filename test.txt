@@ -1,0 +1,2 @@
+This is a test file we will read from it through python codeThis is written in append mode
+This is written in append mode
